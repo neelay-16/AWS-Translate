@@ -18,7 +18,7 @@ Use the translate_text method to translate your text from one language to anothe
 ![image](https://github.com/neelay-16/AWS-Translate/assets/135517502/6ad8ef60-aa82-45f3-a504-b40323f037aa)
 
 
-# Achnowledgements
+# Acknowledgements
 
 Boto3 Documentation for detailed information on using Boto3 with AWS services.
 
